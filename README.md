@@ -6,7 +6,7 @@ I build AI systems that take over real operational work: customer service, docum
 
 My background is Biomedical Engineering, which is why I am comfortable moving between software, data, hardware and the people who will actually use the system. Most of my users are non-technical, Spanish-speaking professionals, and I design for them first.
 
-[LinkedIn](https://www.linkedin.com/in/pabloroca-3012a7243) · pabloroca2000@gmail.com
+[LinkedIn](https://www.linkedin.com/in/pabloroca-3012a7243)
 
 > Most of my work is client work under NDA, so my repositories are private. Happy to walk through any of it in a call.
 
